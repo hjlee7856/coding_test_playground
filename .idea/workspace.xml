@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad6f78fa-d7cd-4f5a-ade4-d41e75ce715e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/simulation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicprograming.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,7 @@
       <workItem from="1728546539824" duration="8905000" />
       <workItem from="1728712408151" duration="1629000" />
       <workItem from="1728720420366" duration="8088000" />
-      <workItem from="1728814440940" duration="4465000" />
+      <workItem from="1728814440940" duration="5225000" />
     </task>
     <servers />
   </component>
