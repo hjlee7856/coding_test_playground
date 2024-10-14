@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad6f78fa-d7cd-4f5a-ade4-d41e75ce715e" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/coding_test_playground.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.ts" beforeDir="false" afterPath="$PROJECT_DIR$/array/array.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/backtracking.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamicprograming.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-programing/dynamicprograming.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funtion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/funtion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph.ts" beforeDir="false" afterPath="$PROJECT_DIR$/graph/graph.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/greedy.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hash/hash.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/object.ts" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/object.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue.ts" beforeDir="false" afterPath="$PROJECT_DIR$/queue/queue.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set.ts" beforeDir="false" afterPath="$PROJECT_DIR$/set/set.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/simulation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sort/sort.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntactic-sugar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/syntactic-sugar.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-programing/dynamicprograming.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-programing/dynamic-programing.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/funtion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/function.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/coding_test_playground&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projects/coding_test_playground",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\coding_test_playground" />
       <recent name="C:\Projects\coding_test_playground\tree" />
       <recent name="C:\Projects\coding_test_playground\stack" />
       <recent name="C:\Projects\coding_test_playground\sort" />
       <recent name="C:\Projects\coding_test_playground\queue" />
-      <recent name="C:\Projects\coding_test_playground\simulation" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,11 +101,19 @@
       <workItem from="1728712408151" duration="1629000" />
       <workItem from="1728720420366" duration="8088000" />
       <workItem from="1728814440940" duration="8095000" />
-      <workItem from="1728890249055" duration="571000" />
+      <workItem from="1728890249055" duration="595000" />
+      <workItem from="1728890856018" duration="86000" />
+      <workItem from="1728890946595" duration="100000" />
+      <workItem from="1728891096872" duration="103000" />
+      <workItem from="1728891206224" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
