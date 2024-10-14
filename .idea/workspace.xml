@@ -5,10 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad6f78fa-d7cd-4f5a-ade4-d41e75ce715e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/coding_test_playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Q6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programing/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programing/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Q4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Q4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/Q5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/Q3.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic-programing/dynamicprograming.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-programing/dynamic-programing.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar/funtion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/function.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/array.ts" beforeDir="false" afterPath="$PROJECT_DIR$/array/array.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/backtracking.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-programing/dynamic-programing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/graph.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy/greedy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash/hash.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/queue.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/set/set.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulation/simulation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/sort.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/tree.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +96,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "pnpm",
-    "project.structure.last.edited": "모듈",
+    "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.nodejs",
@@ -105,7 +152,7 @@
       <workItem from="1728890856018" duration="86000" />
       <workItem from="1728890946595" duration="100000" />
       <workItem from="1728891096872" duration="103000" />
-      <workItem from="1728891206224" duration="292000" />
+      <workItem from="1728891206224" duration="2277000" />
     </task>
     <servers />
   </component>
